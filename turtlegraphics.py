@@ -1,7 +1,5 @@
 """ITECH1400 - FOUNDATIONS OF PROGRAMMING.
-Assignment 01: Ceaser Ciphers and Turtle Graphics
-Venkatesh Sanakkayala
-Student ID: 30382829"""
+Assignment 01: Ceaser Ciphers and Turtle Graphics"""
 #Importing Turtle Library
 import turtle
 #giving my name as a variable to be displayed on the title
